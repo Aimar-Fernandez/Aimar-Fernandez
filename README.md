@@ -1,5 +1,5 @@
 <h2>Hi there 👋</h2>
-<p>My name is Aimar Fernandez. I'm a student learning how to code at</p> <a href="https://teh.ocsb.ca/">St Mother Terresa High School</a> <p>, located on 440 Longfields Drive, Ottawa, Ontario.</p>
+<p>My name is Aimar Fernandez. I'm a student learning how to code at <a href="https://teh.ocsb.ca/">St Mother Terresa High School</a>, located on 440 Longfields Drive, Ottawa, Ontario.</p>
 <p>I am currently learning in the </p> <a href="https://sites.google.com/ocsb.ca/teh-icd2or/home">ICD2O classroom</a>
 <h2> Coding Languages </h2>
 <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
